@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://phonoteka.org/uploads/posts/2022-02/1644390944_1-phonoteka-org-p-igrovoi-fon-dlya-prezentatsii-1.jpg);
+}
+.SEARCH{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 50px;
+ height: 22px;
+ border-radius: 0%
+}
+.search{
+ display: flex;
+ align-items:flex-end;
+ justify-content:flex-end;
+ width: 220px;
+ height:0px;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+}
+.Flex-container{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+h1{
+    display: flex;
+    align-items: center;
+    width:1000px;
+    height:100px;
+    justify-content: end;
+    color: azure;
+}
+button{
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color: azure; 
+}
+.item-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button :hover{
+    cursor: pointer;
+    background-color: blue;
+}
